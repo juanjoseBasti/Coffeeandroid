@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381124261454",
+    "project_id": "coffeeinfoapp-bf383",
+    "storage_bucket": "coffeeinfoapp-bf383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381124261454:android:991eaf8e7c1db80b0d751f",
+        "android_client_info": {
+          "package_name": "com.example.spalsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381124261454-b8qe5tl9k8catmgcju0i16r95he9j815.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXke0Ibbqen88WdE0BNuCdb-4YecPWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381124261454-b8qe5tl9k8catmgcju0i16r95he9j815.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
